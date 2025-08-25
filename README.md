@@ -59,10 +59,4 @@ A **simple Express.js API** implementing:
 
 ---
 
-## 📊 GitHub Stats
-![Marko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkoMitrovic&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoMitrovic&layout=compact&theme=radical)
-
----
-
 ✨ I’m constantly expanding my skills in web development and exploring DevOps & cloud technologies.
