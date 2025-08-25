@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Marko Mitrović
 
 🎓 Final year IT student at **VTSNS**  
-💻 Aspiring **Fullstack Developer** | Passionate about Web Development & DevOps  
+💻 Junior **Fullstack Developer** | Passionate about Web Development & DevOps  
 
 ---
 
