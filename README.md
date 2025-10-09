@@ -39,9 +39,6 @@
 
 ## 🚀 Projects
 
-### Task Tracker
-A full-featured **task management application** (in progress).  
-
 ### Jobs API
 A **simple Express.js API** implementing:  
 - CRUD operations  
