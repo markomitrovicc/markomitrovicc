@@ -49,7 +49,7 @@ A **simple Express.js API** implementing:
 - Rate limiting  
 - Password hashing with Bcrypt  
 
-### Northpeak Store Frontend
+### Northpeak Store Frontend (store-frontend)
 An **Angular storefront** for a full-stack outdoor gear e-commerce application.
 
 - Product catalog with search, category, brand, and price filters
@@ -65,7 +65,7 @@ An **Angular storefront** for a full-stack outdoor gear e-commerce application.
 
 **Live demo:** https://store-frontend-peach.vercel.app/
 
-### Web Shop API
+### Web Shop API (nest-store-api)
 A **NestJS backend** powering the Northpeak Store frontend with product catalog, authentication, cart, and order management.
 
 - REST API with product search, filtering, and pagination
